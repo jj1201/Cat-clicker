@@ -2,31 +2,31 @@ var initialCats = [
 	{
 		clickCount: 0,
 		name: 'Kate01',
-		imgSrc: 'img/Kate01.jpg',
+		imgSrc: 'img/kate01.jpg',
 		nicknames: ['Panda', 'Teapot', 'Pie', 'cute']
 	},
 	{
 		clickCount: 0,
 		name: 'Kate02',
-		imgSrc: 'img/Kate02.jpg',
+		imgSrc: 'img/kate02.jpg',
 		nicknames: ['Panda', 'Teapot', 'Pie', 'cute']
 	},
 	{
 		clickCount: 0,
 		name: 'Kate03',
-		imgSrc: 'img/Kate03.jpg',
+		imgSrc: 'img/kate03.jpg',
 		nicknames: ['Panda', 'Teapot', 'Pie', 'cute']
 	},
 	{
 		clickCount: 0,
 		name: 'Kate04',
-		imgSrc: 'img/Kate04.jpg',
+		imgSrc: 'img/kate04.jpg',
 		nicknames: ['Panda', 'Teapot', 'Pie', 'cute']
 	},
 	{
 		clickCount: 0,
 		name: 'Kate05',
-		imgSrc: 'img/Kate05.jpg',
+		imgSrc: 'img/kate05.jpg',
 		nicknames: ['Panda', 'Teapot', 'Pie', 'cute']
 	}
 
